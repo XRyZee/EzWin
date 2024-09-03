@@ -1,0 +1,33 @@
+body{
+    background-image: url(GitHub.png);
+    background-repeat: no-repeat;
+    background-position:  center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#branches{
+    margin-top: 300px;
+    margin-left: 110px;
+    background-repeat: no-repeat;
+
+}
+#comocadastrar{
+    margin-top: 300px;
+    margin-left: 130px;
+
+}
+#cmds{
+    margin-top: 300px;
+    margin-left: 150px;
+
+}
+#pini{
+    margin-top: 300px;
+    margin-left: 170px;
+
+}
+#reposi{
+    margin-top: 300px;
+    margin-left: 190px;
+
+}
